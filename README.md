@@ -1,3 +1,35 @@
+<div align="center">
+
+# Seaborn for Data Visualization
+
+### A hands-on notebook collection for statistical graphics in Python
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-visualization-4C72B0?logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Notebooks-Jupyter-F37626?logo=jupyter&logoColor=white)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
+**Explore relational, distribution, categorical, matrix, and regression visualizations through focused Jupyter notebooks.**
+
+</div>
+
+---
+
+## Overview
+
+This repository organizes Seaborn examples by visualization family. Each topic folder contains notebooks for exploring a chart type or plotting workflow, from relational plots to multi-plot layouts and utility functions.
+
+The notebooks are designed for hands-on learning: run the cells, inspect each figure, and experiment with the data, encodings, and plot settings.
+
+## Quick navigation
+
+| Topic | Notebooks | Open folder |
+|---|---|---|
+| Relational plots | Scatter and line plots | [`01_Relational_Plots/`](./01_Relational_Plots/) |
+| Distribution plots | Histogram, KDE, and rug plots | [`02_Distribution_Plots/`](./02_Distribution_Plots/) |
+| Categorical plots | Categorical visualization examples | [`03_Categorical_Plots/`](./03_Categorical_Plots/) |
+| Matrix plots | Heatmap and clustermap | [`04_Matrix_Plots/`](./04_Matrix_Plots/) |
+| Regression plots | Regression visualization examples | [`05_Regression_Plots/`](./05_Regression_Plots/) |
 | Multi-plots | MultiGridPlots | [`06_Multiplots/`](./06_Multiplots/) |
 | Utility functions | Shared plotting utilities | [`07_Utility_Functions.ipynb`](./07_Utility_Functions.ipynb) |
 
