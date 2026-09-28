@@ -33,7 +33,7 @@ The notebooks are designed for hands-on learning: run the cells, inspect each fi
 | Multi-plots | MultiGridPlots | [`06_Multiplots/`](./06_Multiplots/) |
 | Utility functions | Shared plotting utilities | [`07_Utility_Functions.ipynb`](./07_Utility_Functions.ipynb) |
 
-<details>
+## Project structure & navigation
 
 ```text
 Seaborn/
@@ -55,7 +55,7 @@ Seaborn/
 └── 07_Utility_Functions.ipynb
 ```
 
-</details>
+
 
 
 
