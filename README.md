@@ -58,6 +58,7 @@ Seaborn/
 
 </details>
 
+
 ## Learning checklist
 
 - [ ] Relational plots
